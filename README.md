@@ -1,5 +1,7 @@
 ## Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **Ikramali773/Ikramali773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
